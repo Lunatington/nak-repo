@@ -12,3 +12,9 @@ Test 3 um das Committen zu lernen
 feature123
 
 Extra feature123
+
+rebase1
+
+rebase2
+
+rebase3
